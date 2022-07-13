@@ -1,3 +1,5 @@
+//Write a java program which accept N numbers from user and return difference between summation of even elements and summation of odd elements.
+
 import java.lang.*;
 import java.util.*;
 import MyPackage.ArrayX;
