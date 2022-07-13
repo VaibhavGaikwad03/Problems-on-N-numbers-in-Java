@@ -1,3 +1,5 @@
+//Write a java program which accept N numbers from user and return summation of odd numbers
+
 import java.lang.*;
 import java.util.*;
 import MyPackage.ArrayX;
